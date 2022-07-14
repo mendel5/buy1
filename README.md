@@ -3,6 +3,7 @@
 Links 1:
 - https://www.apple.com/de/shop/buy-mac/imac/silber-24-zoll-8-core-cpu-8-core-gpu-8-gb-arbeitsspeicher-512gb
 - https://geizhals.de/?cat=sysdiv&asuch=imac+24+silber+512&v=e&hloc=de&sort=t&bl1_id=30&xf=445_16384%7E451_Apple
+- Hinweis Beim iMac auf "Ziffernblock" achten
 
 Links 2:
 - https://www.apple.com/de/shop/buy-iphone/iphone-13-pro
@@ -15,5 +16,5 @@ Links 3:
 - https://geizhals.de/?cat=hde7s&xf=13810_4000%7E13811_8000%7E3772_3.5
 - https://discussions.apple.com/thread/7452747
 
-Hinweise:
-- Beim iMac auf "Ziffernblock" achten
+Links 4:
+- https://www.amazon.de/dp/B07ZVKTP53/
