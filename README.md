@@ -18,3 +18,8 @@ Links 3:
 
 Links 4:
 - https://www.amazon.de/dp/B07ZVKTP53/
+
+Links 5:
+- https://support.apple.com/en-us/HT208242 Sign out of iCloud on your iPhone, iPad, iPod touch, Apple TV, or Mac
+- https://www.imore.com/how-sign-out-your-icloud-account-iphone-and-ipad
+- https://www.guidingtech.com/what-happen-when-you-sign-out-apple-id-iphone/
